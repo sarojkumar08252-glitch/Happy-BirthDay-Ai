@@ -1,24 +1,30 @@
-var gradientColorsArray = new Array(
-  
-  
-  "#0E2F44", // midnight sea blue
-  "#1B2E2C", // forest green-black
-  "#3B2F63", // indigo night
-  "#332524", // chocolate rust
- 
-  "#1E1B32", // darkspace indigo
-  "#2A1C24", // deep rose black
-  "#102020", // cold black
-  "#253031", // ash green
-  "#3C2F2F", // mahogany mist
-  "#1A2B3C", // steel shadow
-  "#2B3D2F", // mossy dark
-  "#1C1F26", // VSCodeish
-  "#2A1F3C", // royal plum
-  "#281C1C", // vintage wine
-  "#19332F", // dark aqua
-  "#302B27", // deep sand
-  "#2C1F2F"  // dusky dusk
+var gradientColorsArray = new Array(  
+  "#a8edea",   // soft sky blue  
+  "#fed6e3",   // soft pink clouds  
+  "#fceabb",   // warm sunlight  
+  "#d4fc79",   // grassy green  
+  "#96e6a1",   // calm leaf green  
+  "#84fab0",   // mint freshness  
+  "#a6c0fe",   // cool sky fade  
+  "#f9f586",   // bright morning sun  
+  "#ffecd2",   // soft golden hour  
+  "#f6d365",   // mellow sunshine  
+  "#c2ffd8",   // soft mist  
+  "#ff9a9e",   // pink horizon  
+  "#fbc2eb",   // dreamy pink mist  
+  "#cfd9df",   // morning haze  
+  "#e0c3fc",   // lavender glow  
+  "#c2e9fb",   // baby blue sky  
+  "#fdfbfb",   // pure cloud white  
+  "#ffeaa7",   // sun-kissed yellow  
+  "#b6fcd5",   // refreshing spring  
+  "#dff9fb",   // clear morning  
+  "#f3e5f5",   // light lilac  
+  "#fce38a",   // soft pastel yellow  
+  "#ffdde1",   // warm fluffy pink  
+  "#e0f7fa",   // fresh blue breeze  
+  "#eaffd0",   // garden dew green  
+  "#fcd5ce"    // blush pink morning  
 );
 
 
